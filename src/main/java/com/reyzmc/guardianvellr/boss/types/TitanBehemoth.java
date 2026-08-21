@@ -1,4 +1,4 @@
-package com.reyzmc.guardiansvellr.boss.types;
+package com.reyzmc.guardianvellr.boss.types;
 
 import com.namamu.guardiansvaller.boss.CustomBoss;
 import org.bukkit.Location;
