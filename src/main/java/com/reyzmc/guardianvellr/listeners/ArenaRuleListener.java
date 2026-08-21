@@ -1,7 +1,7 @@
-package com.namamu.guardiansvaller.listeners;
+package com.reyzmc.guardianvellr.listeners;
 
-import com.namamu.guardiansvaller.GuardiansValler;
-import com.namamu.guardiansvaller.arena.ArenaManager;
+import com.reyzmc.guardianvellr.GuardiansValler;
+import com.reyzmc.guardianvellr.arena.ArenaManager;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
