@@ -1,0 +1,17 @@
+name: GuardiansValler
+version: 1.0
+main: com.reyzmc.guardiansvaller.GuardiansValler
+api-version: 1.13
+
+commands:
+  gv:
+    description: Command admin untuk Guardians Valler
+    permission: guardiansvaller.admin
+  dungeon:
+    description: Command player untuk arena bos
+
+permissions:
+  guardiansvaller.admin:
+    description: Akses ke command admin
+    default: op
+    
