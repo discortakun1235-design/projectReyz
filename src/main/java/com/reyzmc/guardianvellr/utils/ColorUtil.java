@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class ColorUtil {
 
-    /
+    
     public static String colorize(String text) {
         if (text == null) {
             return "";
