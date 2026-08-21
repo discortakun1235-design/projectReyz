@@ -1,6 +1,6 @@
-package com.namamu.guardiansvaller.commands;
+package com.reyzmc.guardianvellr.commands;
 
-import com.namamu.guardiansvaller.GuardiansValler;
+import com.reyzmc.guardiansvellr.GuardiansValler;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
