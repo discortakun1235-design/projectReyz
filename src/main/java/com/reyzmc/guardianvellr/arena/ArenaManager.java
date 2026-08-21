@@ -1,4 +1,4 @@
-package com.reyzmc.guardiansvellr.arena;
+package com.reyzmc.guardianvellr.arena;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
