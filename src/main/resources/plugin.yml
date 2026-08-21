@@ -1,6 +1,6 @@
 name: GuardiansValler
 version: 1.0
-main: com.reyzmc.guardiansvaller.GuardiansValler
+main: com.reyzmc.guardianvellr.GuardiansValler
 api-version: 1.13
 
 commands:
