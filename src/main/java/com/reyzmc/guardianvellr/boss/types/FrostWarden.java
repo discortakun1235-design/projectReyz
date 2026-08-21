@@ -1,4 +1,4 @@
-package com.namamu.guardiansvaller.boss.types;
+package com.reyzmc.guardianvellr.boss.types;
 
 import com.namamu.guardiansvaller.boss.CustomBoss;
 import org.bukkit.Location;
@@ -32,7 +32,7 @@ public class FrostWarden extends CustomBoss {
     @Override
     public void useSkill(Player target) {
         if (target != null && target.isOnline()) {
-            target.addPotionEffect(new PotionEffect(PotionEffectType.SLOWNESS, 100, 4));
+            target.addPotionEffect(new PotionEffect(PotionEffectType.SLOW, 100, 4));
         }
     }
 
