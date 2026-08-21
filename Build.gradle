@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.java'
+group = 'com.reyzmc'
 version = '1.0'
 
 repositories {
