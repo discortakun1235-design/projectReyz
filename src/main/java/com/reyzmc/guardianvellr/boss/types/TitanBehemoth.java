@@ -1,6 +1,6 @@
 package com.reyzmc.guardianvellr.boss.types;
 
-import com.namamu.guardiansvaller.boss.CustomBoss;
+import com.reyzmc.guardiansvellr.boss.CustomBoss;
 import org.bukkit.Location;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.entity.EntityType;
