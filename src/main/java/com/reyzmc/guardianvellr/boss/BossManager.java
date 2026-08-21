@@ -1,4 +1,4 @@
-package com.namamu.guardiansvaller.boss;
+package com.reyzmc.guardianvellr.boss;
 
 public class BossManager {
 
