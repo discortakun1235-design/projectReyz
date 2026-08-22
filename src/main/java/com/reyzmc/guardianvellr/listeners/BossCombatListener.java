@@ -1,6 +1,6 @@
-package com.namamu.guardiansvaller.listeners;
+package com.reyzmc.guardianvellr.listeners;
 
-import com.namamu.guardiansvaller.GuardiansValler;
+import com.reyzmc.guardianvellr.GuardiansValler;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
