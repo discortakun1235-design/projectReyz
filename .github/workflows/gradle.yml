@@ -26,6 +26,9 @@ jobs:
 
     - name: Upload Plugin JAR
       uses: actions/upload-artifact@v4
+      with:    - name: Upload Plugin JAR
+      uses: actions/upload-artifact@v4
       with:
-        name: GuardiansValler-Plugin
-        path: build/libs/GuardiansValler-1.0.jar
+      name: GuardiansValler-Plugin
+      path: build/libs/*.jar
+        
