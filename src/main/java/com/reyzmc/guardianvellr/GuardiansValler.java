@@ -1,10 +1,10 @@
-package com.namamu.guardiansvaller;
+package com.reyzmc.guardianvellr;
 
-import com.namamu.guardiansvaller.arena.ArenaManager;
-import com.namamu.guardiansvaller.commands.AdminCommand;
-import com.namamu.guardiansvaller.commands.DungeonCommand;
-import com.namamu.guardiansvaller.listeners.ArenaRuleListener;
-import com.namamu.guardiansvaller.listeners.BossCombatListener;
+import com.reyzmc.guardianvellr.arena.ArenaManager;
+import com.reyzmc.guardianvellr.commands.AdminCommand;
+import com.reyzmc.guardianvellr.commands.DungeonCommand;
+import com.reyzmc.guardianvellr.listeners.ArenaRuleListener;
+import com.reyzmc.guardianvellr.listeners.BossCombatListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class GuardiansValler extends JavaPlugin {
