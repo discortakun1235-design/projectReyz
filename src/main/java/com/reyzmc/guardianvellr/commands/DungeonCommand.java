@@ -1,6 +1,6 @@
 package com.reyzmc.guardianvellr.commands;
 
-import com.reyzmc.guardiansvellr.GuardiansValler;
+import com.reyzmc.guardianvellr.GuardiansValler;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
