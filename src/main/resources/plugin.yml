@@ -1,5 +1,10 @@
-name: BloodMoney
+name: Mercenary
 version: 1.0
 main: com.Reyzmc.projectme.Main
 api-version: 1.13
 depend: [Vault]
+commands:
+  sewa:
+    description: Menyewa player sebagai bodyguard
+  terima:
+    description: Menerima tawaran menjadi bodyguard
