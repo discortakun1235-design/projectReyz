@@ -1,11 +1,5 @@
-name: SuitMe
+name: BloodMoney
 version: 1.0
 main: com.Reyzmc.projectme.Main
 api-version: 1.13
 depend: [Vault]
-
-commands:
-  suit:
-    description: Main batu gunting kertas!
-    usage: /suit <nama_player>
-    
