@@ -1,4 +1,2 @@
-hadiah-menang: 5000
-pesan-menang: "&aSelamat! Kamu menang suit dan mendapatkan uang sebesar %hadiah%!"
-pesan-kalah: "&cSayang sekali, kamu kalah suit dari %lawan%."
-pesan-seri: "&eKalian berdua memilih jawaban yang sama! Seri!"
+steal-percentage: 10.0
+broadcast-global: true
