@@ -5,21 +5,20 @@ import org.bukkit.plugin.RegisteredServiceProvider;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
-
     private static Economy econ = null;
 
     @Override
     public void onEnable() {
         saveDefaultConfig();
-
+        
         if (!setupEconomy()) {
-            getLogger().severe("Vault tidak ditemukan! Plugin dimatikan.");
+            getLogger().severe("Vault tidak ditemukan! Mematikan plugin Blood Money...");
             getServer().getPluginManager().disablePlugin(this);
             return;
         }
-
-        getCommand("suit").setExecutor(new SuitCommand(this));
-        getServer().getPluginManager().registerEvents(new ChatListener(this), this);
+        
+        getServer().getPluginManager().registerEvents(new KillListener(this), this);
+        getLogger().info("Blood Money berhasil dinyalakan!");
     }
 
     private boolean setupEconomy() {
@@ -37,5 +36,4 @@ public class Main extends JavaPlugin {
     public static Economy getEconomy() {
         return econ;
     }
-    }
-
+}
